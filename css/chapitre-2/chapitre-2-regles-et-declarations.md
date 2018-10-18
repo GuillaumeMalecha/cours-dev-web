@@ -41,7 +41,7 @@ Je commence ma déclaration à l'aide d'une accolade ouvrante
 ````
 
 
-Je modifie la coleur de fond de mon paragraphe avec une propriété 
+Je modifie la couleur de fond de mon paragraphe avec une propriété 
 
 ````css
 background-color:

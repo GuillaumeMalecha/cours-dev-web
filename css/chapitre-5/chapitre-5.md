@@ -115,9 +115,9 @@
     
     Cette régle est valable pour ``:last-child`` et ``:nth-child``...
     
-    Il y a d'autres sélecteurs qui pourront fonctionner avec n'import quelle structure.
+    Il y a d'autres sélecteurs qui pourront fonctionner avec n'importe quelle structure.
     
-    Il sagit de ``:first-of-type``, ``:nth-of-type()``, ``:last-of-type``
+    Il s'agit de ``:first-of-type``, ``:nth-of-type()``, ``:last-of-type``
     
     
 
@@ -316,7 +316,7 @@
     ````
  
     
-8. Toutes les balises ``<p>`` au survole du curseur
+8. Toutes les balises ``<p>`` au survol du curseur
 
     ````css
     p:hover {
@@ -357,7 +357,7 @@ Plus le navigateur sera récent, plus il faudra utiliser le CSS3
     </body>
     ````
     
-    **Attention**, first-line ne fonctionne qu'avec les propiétées liées au changement de texte, de fond et de coleur :
+    **Attention**, first-line ne fonctionne qu'avec les propiétées liées au changement de texte, de fond et de couleur :
     
     - font, font-weight, font-size, etc...
     - color
@@ -412,13 +412,13 @@ Plus le navigateur sera récent, plus il faudra utiliser le CSS3
 
 - [Execices partie 1](exercices)
 
-    Télécharger le contenu du lien ci-dessus et liserle PDF
+    Télécharger le contenu du lien ci-dessus et lire le PDF
     Utiliser les mémos CSS pour vous aider
     
     
 - [Execices partie 2](exercices-2)
 
-    Télécharger le contenu du lien ci-dessus et vous trouverez l'énoncer dans le code HTML.
+    Télécharger le contenu du lien ci-dessus et vous trouverez l'énoncé dans le code HTML.
     Vous ne devez que manipuler le fichier main.css.
     Utiliser les mémos CSS pour vous aider
 

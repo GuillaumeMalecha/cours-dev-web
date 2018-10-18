@@ -22,7 +22,7 @@ Il y a trois types de selecteurs :
 
 ## Les selecteurs de balise
 
-En reprennant l'exemple du schéma, si je souhaite modifier le style des de toutes les balises ``<p>`` qui se trouve dans les balises ``<article>``, il faut écrire le code ci-dessous :
+En reprennant l'exemple du schéma, si je souhaite modifier le style de toutes les balises ``<p>`` qui se trouve dans les balises ``<article>``, il faut écrire le code ci-dessous :
 
 ````css
 article p{
@@ -49,11 +49,11 @@ article section p{
 
 ## Les selecteurs de classe
 
-L'utilisation des classes sont très pratiques et peuvent être utilisées sur plusieurs éléments HTML.
+L'utilisation des classes est très pratique et elles peuvent être utilisées sur plusieurs éléments HTML.
 
 Imaginons que vous devez avoir le même style sur plusieurs éléments HTML qui sont différents et qui ne sont pas au même niveau.
 
-Cela permet de modifier le style de certain élément en particulier, d'obtenir un code plus concis et de ne pas avoir de duplication de code CSS.
+Cela permet de modifier le style de certains éléments en particulier, d'obtenir un code plus concis et de ne pas avoir de duplication de code CSS.
 
 **Partie HTML**
 
@@ -72,9 +72,9 @@ Cela permet de modifier le style de certain élément en particulier, d'obtenir 
 
 ## Les selecteurs d'identifiant
 
-L'utilisation des identifiants est fort similaire aux classes sauf qu'on ne peut que l'utiliser sur qu'une seule balise dans une page HTML (utilisation unique).
+L'utilisation des identifiants est fort similaire aux classes sauf qu'on ne peut que l'utiliser que sur une seule balise dans une page HTML (utilisation unique).
 
-Par contre, les identifiant sont plus puissants que les classes, ce qui veut dire que les propriétés dans le style de l'identifiant annuleront le style des propriétés identiques dans une classe.
+Par contre, les identifiants sont plus puissants que les classes, ce qui veut dire que les propriétés dans le style de l'identifiant annuleront le style des propriétés identiques dans une classe.
 Exemple, si une classe modifie la couleur d'un élément mais qu'un identifiant aussi, ce sera la couleur de l'identifiant qui sera utilisée...
 
 **Partie HTML**
@@ -97,7 +97,7 @@ Exemple, si une classe modifie la couleur d'un élément mais qu'un identifiant 
 ![classe & id](img/classe-id.png)
 
 
-## Regroupement des séléecteurs
+## Regroupement des sélecteurs
 
 **Déclaration multiple**
 
